@@ -1,7 +1,9 @@
 ->This project is a menu driven program app.
+
 it gives 3 option of 1.pattern generator
                      2.Number Analyzer 
-                     3.exit 
+                     3.exit .
+                     
 i used while loop , for loop, nested for loop, if-else  statement , and  Match-case  Also,
 first i start from while loop , which is look like infinite loop until you choose option 3 of exit , i used break keyword for exiting the loop in case 3.
 
@@ -17,3 +19,6 @@ And also used Assignment operator += , for doing the sum of all numbers.
 output:
 
 <img width="1100" height="722" alt="Screenshot 2026-09-24 035913" src="https://github.com/user-attachments/assets/18ece5e1-90e8-4b23-bd39-f5e1fa91fe31" />
+
+<img width="932" height="708" alt="Screenshot 2026-09-24 035933" src="https://github.com/user-attachments/assets/abb1d381-527f-4b00-a23b-7e960647305d" />
+
