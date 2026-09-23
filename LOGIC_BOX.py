@@ -56,5 +56,5 @@ Enter Your Choise: """))
         case _:
             print("Please Enter Your Choise between 1 to 3.\n")
 
-            #here i make an else Match case for the user who exidently enter wrong value.
+            #here i make an else Match case for the user who eccidently enter wrong value.
             
